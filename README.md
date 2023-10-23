@@ -5,8 +5,6 @@
   <a href="https://t.me/kumchick2">Telegram</a> |
   <a href="https://vk.com/kumchick">VK</a>
   <br><br>
-  <img src="https://media.tenor.com/XyT1Z-nOLqsAAAAd/nagatoro-ijiranaide-nagatoro-san.gif">
-</p>
 
 #
 ```diff
