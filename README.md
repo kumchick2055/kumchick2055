@@ -9,7 +9,7 @@
 #
 ```diff
 
-👤 >> 18 years old, Russian developer.
+👤 >> 19 years old, Russian developer.
 👨‍💻 >> Fullstack Developer and Affiliate Marketing
 📚 >> Im learn Python, JS, Golang, C++, C#, Html/Css, Vue.JS
 ```
