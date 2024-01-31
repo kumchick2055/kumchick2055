@@ -9,6 +9,6 @@
   
 ```diff
 👤 >> 19 years old, Russian developer.
-👨‍💻 >> RPA Developer and Affiliate Marketing
+👨‍💻 >> FullStack Developer
 📚 >> Im learn Python, JS, Golang, C++, C#, Html/Css, Vue.JS
 ```
