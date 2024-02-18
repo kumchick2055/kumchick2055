@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>My Contacts:</b><br>
-  <a href="https://t.me/kumchick2">Telegram</a> |
-  <a href="https://vk.com/kumchick">VK</a>
+  <a href="https://t.me/kumchick2">Telegram</a>
   <br><br>
   
 ```diff
