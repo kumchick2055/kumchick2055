@@ -10,3 +10,15 @@
 👨‍💻 >> FullStack Developer
 📚 >> Im learn Python, JS, Golang, C++, C#, Html/Css, Vue.JS
 ```
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kumchick2055&theme=dark&hide_border=true&show_icons=true&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kumchick2055&hide_border=true&show_icons=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kumchick2055&hide_border=true&show_icons=true&bg_color=00000000"/>
+</picture>
