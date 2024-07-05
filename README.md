@@ -10,7 +10,7 @@
 ```diff
 👤 >> 19 years old, Russian developer.
 👨‍💻 >> FullStack Developer
-📚 >> Im learn Python, JS, Golang, C++, C#, Html/Css, Vue.JS
+📚 >> Im learn Python, JS, Rust, C++, C#, Html/Css, Vue.JS
 ```
 
 <picture>
