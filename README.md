@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <b>This is my photo</b><br>
-    <img src="https://sun9-28.userapi.com/impg/i6yu25peJiL35jRSvB3bqMeC2v7zbMlFvGW-HQ/YbSR6KSVlt8.jpg?size=532x807&quality=95&sign=7c44de5d7c03f66252116479a942b038&type=album" height="300px"><br>
   <b>My Contacts:</b><br>
   <a href="https://t.me/kumchick2">Telegram</a>
   <br><br>
